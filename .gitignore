@@ -1,0 +1,13 @@
+
+
+junk/**
+personal/
+attendance/
+venv/
+lesson/__pycache__/
+hw/.ipynb_checkpoints/
+*.log
+*.pre
+*.aux
+*.gz
+*.html
